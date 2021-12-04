@@ -1,3 +1,9 @@
+body{
+    background-color: rgb(68, 64, 64);
+    color:chocolate;
+
+}
+
 ul{
     /*outline: 1px solid blue;*/
     list-style:none ;
